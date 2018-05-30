@@ -1,0 +1,30 @@
+Western Civilization
+Charles F Rook
+Pearson
+DFN482FM93
+45.0
+Introduction to Java Programming
+Harold Dobbs
+Pearson
+A6DH45893FB4
+65.0
+Calculus
+Sally Fields
+Pearson
+DI4834NF0FNMD
+80.0
+American History
+Glenn Hernandez
+McGraw-Hill Education
+ZD89H49FN93
+100.0
+Basics of Writing
+Walter Slate
+McGraw Hill Education
+DB4UIR3P95N
+54.0
+Basics of Chemistry
+Sheryl Ingoglia
+Pearson
+EYFB48T3NFIN4
+35.0

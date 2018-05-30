@@ -1,0 +1,35 @@
+Beth Gibson
+(631)453-6893
+453, Main Street, Babylon, New York, 11743
+R312
+34000.0
+Ms.
+00000002
+Kathleen M Roth
+(716)998-7832
+646, Fern Road, Commack, New York, 11737
+R114
+34000.0
+Mrs.
+00000004
+Dylan Schultz
+(456)765-9998
+56, Cello Road, Patchogue, New York, 11767
+R113
+27000.0
+Mr.
+00000005
+Julie Franklin
+(987)089-3456
+53, Fire Lane, Amityville, New York, 11736
+R43
+34000.0
+Ms
+00000008
+Wendy Nelson
+(917)658-4883
+333, Champlain, Islip Terrace, New York, 11752
+R119
+40000.0
+Mrs
+00000010
